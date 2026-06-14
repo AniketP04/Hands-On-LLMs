@@ -1,0 +1,26 @@
+--- Research Findings ---
+Timestamp: 2026-06-02 13:58:24
+
+Comparison of Major U.S. Automakers - Current Status
+
+1. General Motors (GM)
+- Q1 2026 revenue came in at $43.6 billion, with net income of $2.6 billion, though both were slightly below Q1 2025 levels. Operating cash flow fell sharply to $3.0 billion from $6.1 billion, reflecting working capital swings and restructuring activity. 
+- Key Challenge: GM recorded about $1.1 billion in additional charges tied to its North American EV capacity realignment in Q1 alone, following $7.9 billion in similar charges in 2025, with further EV-related charges expected through 2026. 
+- Tariff Relief: GM raised its 2026 adjusted earnings guidance by $500 million to between $13.5 billion and $15.5 billion, reflecting a favorable tariff rebate after the U.S. Supreme Court struck down certain IEEPA tariffs. 
+- Manufacturing Investment: GM announced $830 million in investment across three key U.S. propulsion sites, bringing total domestic manufacturing investments to over $6 billion in the past 12 months, focused on launching next-generation full-size trucks and SUVs.
+
+2. Ford Motor Company (F)
+- Q1 2026 Performance: Ford Blue segment reported $1.9 billion EBIT on $23.9 billion in revenue, driven by F-Series, Bronco, and double-digit growth in Explorer and Expedition. Ford Pro generated $1.7 billion EBIT; Ford Pro paid software subscriptions grew 30% year-over-year to 879,000. 
+- Sales Headwinds: April U.S. sales fell 14.4% year-over-year to 178,667 vehicles. Electrified vehicle sales dropped 31.1% while ICE models slid 11.8%, raising questions about Ford's EV transition strategy. 
+- Recalls: Ford is recalling over 179,000 vehicles due to a front seat issue that can increase injury risk in a crash. Separately, a recall affects 2025–2026 Bronco and Bronco Sport vehicles over a parking module that may allow cars to roll away. 
+- New Strategy: Ford launched a comprehensive parts and service marketing campaign — "Real Parts. Real Pros. Real Easy." — targeting the aging U.S. vehicle fleet as the average vehicle age nears 13 years. 
+- Leadership: Global CMO Lisa Materazzo departed effective June 1; Dean Stoneley was appointed interim CMO. 
+
+Market Dynamics:
+- GM is pulling back on EV ambitions and absorbing heavy restructuring costs while leaning on trucks and SUVs for near-term profitability.
+- Ford faces the sharpest sales declines and is pivoting toward services and affordability while its EV segment remains deeply loss-making.
+- Stellantis is in turnaround mode — under legal fire, with a depressed stock, but unveiling an ambitious long-term capital plan.
+- Tesla is accelerating its transition from automaker to autonomous mobility platform, with robotaxi deployment and FSD subscriptions as the key growth vectors.
+- Tariffs remain a significant macro headwind for all traditional automakers, though partial relief has come via legal challenges to IEEPA-related levies.
+
+This analysis shows traditional automakers actively transitioning to EVs while Tesla maintains its position as an EV-native company. The industry is characterized by increasing competition in the EV space, with traditional automakers leveraging their manufacturing experience and established networks while adapting to new technologies.

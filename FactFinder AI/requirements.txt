@@ -1,0 +1,9 @@
+langchain
+wikipedia
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+dotenv
+duckduckgo-search
+yfinance
